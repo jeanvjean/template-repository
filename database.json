@@ -1,0 +1,16 @@
+{
+  "defaultEnv": {"ENV": "BOILER_NODE_ENV"},
+  "development": {
+    "ENV": "BOILER_DEV_DATABASE_URL"
+  },
+  "test":{
+    "ENV": "BOILER_TEST_DATABASE_URL"
+  },
+  "production":{
+      "ENV": "BOILER_PROD_DATABASE_URL"
+  },
+  "staging":{
+    "ENV": "BOILER_STAGING_DATABASE_URL"
+  },
+  "sql-file": true
+}

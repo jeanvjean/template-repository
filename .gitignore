@@ -1,0 +1,8 @@
+node_modules
+.env
+/log
+log/
+*.log
+sm.js
+package-lock.json
+pm2.json
