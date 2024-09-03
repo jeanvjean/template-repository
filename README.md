@@ -1,8 +1,8 @@
 <==========================================>
 ## Getting Started
-[repository] git clone https://github.com/jeanvjean/template-code-strxt.git
+[repository] git clone https://github.com/jeanvjean/template-repository
 
-cd template-code-strxt
+cd template-repository
 
 - run: npm install <to install dependencies>, 
 
